@@ -32,7 +32,6 @@ It contains information about:
 ## 🛠️ Tools & Libraries
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 
 ---
@@ -96,4 +95,4 @@ This project demonstrates how Pandas can be used for real-world business data an
 ---
 
 ## 👨‍💻 Author
-Alemu Chamada
+Alemu Chamada(CSE)
